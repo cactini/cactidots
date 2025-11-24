@@ -1,7 +1,7 @@
-@import 'mocha.css';
+@import 'macchiato.css';
 
 * {
-  font-family: Iosevka Nerd Font;
+  font-family: JetBrainsMono Nerd Font Mono;
   min-height: 14px;
   font-size: 12px;
   border: none;
