@@ -1,6 +1,19 @@
 # Introduction (TBD)
 I've already lost all my dotfiles once, it ain't happening again...
-It's based (basically copied) from https://github.com/ad1822/hyprdots (the old ones), go check them out :)
-also also my nvim repo is https://github.com/cactini/cactivim but I need to figure out how to link it here
+It was originally based (basically copied) on https://github.com/ad1822/hyprdots (the old ones), go check them out :)
 # Program list (TBD)
+- nvim
+- Hyprland
+- zsh
+- firefox
+- dunst
+- kitty
+- lazygit
+- waybar
+- starship
+- rofi 
+- fastfetch
+# TODO
+- redo nvimconfig with the native plugin manager
+- replace rofi and waybar with quickshell
 # Features and other cool stuff (TBD)
