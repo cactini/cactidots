@@ -2,6 +2,7 @@
 I've already lost all my dotfiles once, it ain't happening again...
 It was originally based (basically copied) on https://github.com/ad1822/hyprdots (the old ones), go check them out :)
 # Program list (TBD)
+- tmux
 - nvim
 - Hyprland
 - zsh
