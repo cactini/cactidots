@@ -34,7 +34,7 @@
     history_length = 20
     show_age_threshold = 60
     markup = "full"
-    font = "Iosevka Nerd Font 10";
+    font = "JetBrainsMono Nerd Font Mono";
     format = "<b>%s</b>\n%b:
     word_wrap = "yes"
     sort = "yes"
@@ -57,19 +57,19 @@
 
 
 [urgency_low]
-    background = "#11111b"
-    foreground = "#cdd6f4"
-    highlight = "#cba6f7"
+    background = "#24273a"
+    foreground = "#cad3f5"
+    highlight = "#ee99a0"
     timeout = 4
 
 [urgency_normal]
-    background = "#11111b"
-    foreground = "#cdd6f4"
-    highlight = "#cba6f7"
+    background = "#24273a" 
+    foreground = "#cad3f5"
+    highlight = "#ee99a0"
     timeout = 6
 
 [urgency_critical]
-    background = "#11111b"
-    foreground = "#cdd6f4"
-    highlight = "#cba6f7"
+    background = "#24273a"
+    foreground = "#cad3f5"
+    highlight = "#ee99a0"
     timeout = 0
